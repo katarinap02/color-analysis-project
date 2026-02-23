@@ -14,7 +14,7 @@ def process_images():
     
     for season in seasons:
         raw_path = Path(f'data/raw/{season}')
-        processed_path = Path(f'data/processed/{season}')
+        processed_path = Path(f'data/train/{season}')
         
         processed_path.mkdir(parents=True, exist_ok=True)
         
