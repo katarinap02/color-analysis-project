@@ -399,6 +399,7 @@ class FaceExtractor:
             self.detector.close()
 
 
+
 if __name__ == "__main__":
     # Test
     extractor = FaceExtractor()
