@@ -6,3 +6,4 @@ data/raw/*
 venv/
 .venv312/
 models/*.h5
+data_regions_all/
