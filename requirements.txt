@@ -1,1 +1,12 @@
-﻿
+﻿# requirements.txt
+mediapipe
+scikit-learn
+matplotlib
+seaborn
+tqdm
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+pillow
