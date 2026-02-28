@@ -137,6 +137,7 @@ if __name__ == "__main__":
     
     ensemble_no_eyes = EnsembleModel([
         "best_model.pth",
+        "best_model_hair.pth",
         "best_model_skin.pth"
     ], device=DEVICE)
     
