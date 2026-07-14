@@ -35,5 +35,5 @@ The project follows a structured Computer Vision and Machine Learning pipeline:
 
 This project was developed by:
 
-*   [Katarina Petrović]
-*   [Nataša Radmilović]﻿
+*   Katarina Petrović
+*   Nataša Radmilović
